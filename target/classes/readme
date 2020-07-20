@@ -1,0 +1,17 @@
+H2 Database console
+
+http://localhost:8011/users-ws/h2-console
+
+Eureka Dashboard
+http://localhost:8010/
+
+ZUUL API 
+http://localhost:8011/
+
+Dependency
+https://mvnrepository.com/
+
+becase we set username password to discovery sefvice clients have to use username and password to connect to it
+eureka.client.serviceUrl.defaultZone=http://uttam:uttam/localhost:8010/eureka
+
+
